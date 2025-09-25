@@ -71,7 +71,7 @@ I love contributing to projects, learning best practices, and building solutions
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit0925&layout=compact&theme=radical" width="357"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit0925&theme=radical&hide_border=true" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit0925&layout=compact&theme=radical" width="300"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit0925&theme=radical&hide_border=true" width="420"/>
 </p>
 
 ![Sumit's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit0925&theme=radical)  
