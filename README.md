@@ -1,4 +1,4 @@
-[GitHub Profile Readme.md](https://github.com/user-attachments/files/22545376/GitHub.Profile.Readme.md)
+
 # 👋 Hi there, I'm Sumit Angural
 
 I'm a **Full Stack Developer**, with a strong focus on building **scalable**, **secure**, and **user-friendly** **web applications** and passionate about creating web applications that are both **functional and visually appealing**. I enjoy **turning ideas into reality** through code and continuously exploring **new technologies** to grow as a developer.
