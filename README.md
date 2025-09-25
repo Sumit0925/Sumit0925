@@ -40,7 +40,7 @@ I love contributing to projects, learning best practices, and building solutions
 
   - Features: Secure **JWT authentication**, **Razorpay payment integration**, **Context API & Redux** for state management, and an **Admin Panel** for managing products, orders, and users.  
 
-🔹Carrer Launch |[Repo](https://github.com/Sumit0925/CarrerLaunch) 
+🔹Carrer Launch | [Repo](https://github.com/Sumit0925/CarrerLaunch) 
   - 🎓 Training & placement portal that allows **students to register, view courses, track placement status**, and enables **admin to manage students and courses**.  
   - Features: **JWT authentication**, **Context API for state management**, **Admin Dashboard** for monitoring students and placements.  
 
